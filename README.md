@@ -35,5 +35,5 @@
  ## Contact📞
 <div>
  <a href="mailto:samuel.alvyys@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
- <a href="https://www.linkedin.com/in/samuel-alvyys/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a>
+ <a href="https://www.linkedin.com/in/samuel-alvyys/" target="_blank"> <img align="center" height= 50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a>
  </div
